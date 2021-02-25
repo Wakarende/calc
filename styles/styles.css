@@ -1,0 +1,28 @@
+body{
+    background-color: #D9D9D9;
+}
+.calculator{
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+}
+.clear{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    background-color:#13262F;
+}
+
+.screen{
+    margin-left: 1%;
+    margin-top: 5%;
+    border-radius: 10px;
+    width: 70%;
+    height:50px;
+    background-color: #F76F8E;
+}
