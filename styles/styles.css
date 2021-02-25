@@ -21,8 +21,14 @@ body{
 .screen{
     margin-left: 1%;
     margin-top: 5%;
+    margin-bottom: 3%;
     border-radius: 10px;
     width: 70%;
     height:50px;
     background-color: #F76F8E;
+}
+.btn{
+    margin: 3%;
+    color: #fff;
+    font-size: 25px;
 }
